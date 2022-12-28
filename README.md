@@ -1,6 +1,6 @@
 # Projeto-Portfolio
 
-Projeto Portfólio feito com React Vitejs e Sass. Um projeto da aula de Matheus Battisti.
+- Projeto Portfólio feito com React Vitejs e Sass. Um projeto da aula de Matheus Battisti.
 ---
 ## 📚 Link de Deploy : <a href=http://meuprojetoportfolio.surge.sh/ target="_blank">Clica em mim</a>
 ---
