@@ -2,7 +2,7 @@
 
 Projeto Portfólio feito com React Vitejs e Sass. Um projeto da aula de Matheus Battisti.
 ---
-## 📚 Link de Deploy : <a href=http://meuprojetoportfolio.surge.sh/>Clica em mim</a>
+## 📚 Link de Deploy : <a href=http://meuprojetoportfolio.surge.sh/ target="_blank">Clica em mim</a>
 ---
 ![1](https://user-images.githubusercontent.com/102266417/209726199-647acb54-af7e-4c9e-9f8e-da02ea11f105.png)
 ![2](https://user-images.githubusercontent.com/102266417/209726201-5ae53e57-a654-4ac9-bac6-445d74040cbf.png)
